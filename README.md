@@ -14,3 +14,4 @@
 1. [USTC Beamer](https://github.com/ustctug/ustcbeamer)
 2. [河海大学视觉形象识别系统手册](https://www.hhu.edu.cn/179/list.htm)
 3. [OPPO Sans](https://www.coloros.com/index/newsDetail?id=72)
+4. [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic)
